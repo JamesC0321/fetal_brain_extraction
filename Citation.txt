@@ -1,0 +1,2 @@
+Please cite:
+Chen J, Fang Z, Zhang G, et al. Automatic brain extraction from 3D fetal MR image with deep learning-based multi-step framework[J]. Computerized Medical Imaging and Graphics. 2021, 88: 101848.
